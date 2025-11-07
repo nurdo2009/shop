@@ -1,0 +1,14 @@
+.blokc{
+    width: 100%;
+   
+    border: 1px solid;
+    background-color: rgb(234, 232, 226);
+}   
+body{
+    background-color: rgb(170, 178, 179);
+}
+.main{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows:  300px 30px  300px;
+} 
